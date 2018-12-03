@@ -1,0 +1,14 @@
+El sistema cuenta con dos archivos:
+
+1) el codigo
+2) la carpeta de instalacion
+
+1) El código fue desarrollado con Visual Studio 2015 y Devexpress ver 16
+
+2) La carpeta de instalación para que todo funcione.. debe estar en la ubicación C:/, es decir C:/iWallet
+
+Dentro de la carpeta de instalación está un backup de la base de datos
+dicha base de datos está hecha con Sql Server 2012
+
+Contacta para información ADICIONAL
+
